@@ -1,0 +1,22 @@
+.odd
+{
+    background-color:#F4C2C2;
+    font-family:Verdana,'DejaVu Sans',sans-serif;
+}
+
+.font24
+{
+    font-size:24px;
+}
+
+#no2
+{
+    color:hsl(236, 35%, 48%);
+    font-size:36px;
+}
+
+#no4
+{
+    background-color:rgb(50,200,50);
+    font-weight:bold;
+}
